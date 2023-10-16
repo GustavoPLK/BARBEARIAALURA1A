@@ -1,19 +1,29 @@
 body{
-    background: #cccccc ;
+    
 }
 #banner {
     width: 100%;
 }
 .principal
-h1 {
-    text-align: center;
+{
+    background: #cccccc ;
+    padding: 30px;
 }
+   h1 {
+    text-align: center;
+   } 
 p {
     text-align: center; 
 }
 #missao {
     font-size: 20px;
 }
-em stong {
+em strong {
     color:rgb(0, 162, 255)
+}
+.itens{
+    font-style: italic;
+}
+.beneficios {
+    background-color: #FFFFFF;
 }
